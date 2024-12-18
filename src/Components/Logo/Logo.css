@@ -1,0 +1,10 @@
+.tilt {
+    background-color: #ffffff05;
+}
+
+.hover:hover {
+    background-color: #dddddd11;
+    /* height: 100px; */
+    width: 45%;
+    box-shadow: 10px purple;
+  }
